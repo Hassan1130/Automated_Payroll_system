@@ -1,6 +1,6 @@
 [
     {
-        "img":"https://i.ibb.co/PYxKqL7/IMG-20240303-WA0035.jpg",
+        "img":"",
         "ID":"01",
         "Employe_Name":"Mehedi Hassan",
         "Employe_post":"CEO",
@@ -11,7 +11,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/GPbR0vY/IMG-20240303-WA0040.jpg",
+        "img":"",
         "ID":"02",
         "Employe_Name":"Hameem Hossain",
         "Employe_post":"COO",
@@ -23,7 +23,7 @@
     },
     {
         
-        "img":"https://i.ibb.co/zXv8RGv/IMG-20240303-WA0033.jpg",
+        "img":"",
         "ID":"03",
         "Employe_Name":"Ishrat Jahan",
         "Employe_post":"MD",
@@ -34,7 +34,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/qsCJPpS/IMG-20240303-WA0029.jpg",
+        "img":"",
         "ID":"04",
         "Employe_Name":"Mahitun Nesa",
         "Employe_post":"Vice President",
@@ -46,7 +46,7 @@
     },
     {
         
-        "img":"https://i.ibb.co/C7KzDPL/IMG-20240303-WA0044.jpg",
+        "img":"",
         "ID":"05",
         "Employe_Name":"Saiful Alam",
         "Employe_post":"IT Manager",
@@ -58,7 +58,7 @@
 
     },
     {
-        "img":"https://i.ibb.co/pzHCJ3T/IMG-20240303-WA0042.jpg",
+        "img":"",
         "ID":"06",
         "Employe_Name":"Mohammed Walid",
         "Employe_post":"Software Developer",
@@ -69,7 +69,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/99bbmc0/IMG-20240303-WA0037.jpg",
+        "img":"",
         "ID":"07",
         "Employe_Name":"Nazibah Ibnat Nibedita",
         "Employe_post":"Web Developer",
@@ -80,7 +80,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/44bhf0d/IMG-20240303-WA0039.jpg",
+        "img":"",
         "ID":"08",
         "Employe_Name":"Riya Biswas",
         "Employe_post":"UI/UX Designer",
@@ -91,7 +91,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/qN4fSYc/IMG-20240303-WA0036.jpg",
+        "img":"",
         "ID":"09",
         "Employe_Name":"Sumaiya Newaz",
         "Employe_post":"Data Analyst",
@@ -102,7 +102,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/1QBY89W/IMG-20240303-WA0034.jpg",
+        "img":"",
         "ID":"10",
         "Employe_Name":"Pritam Nath",
         "Employe_post":"System Administrator",
@@ -113,7 +113,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/cYW0dsN/IMG-20240303-WA0028.jpg",
+        "img":"",
         "ID":"11",
         "Employe_Name":"Imtiaz Uddin",
         "Employe_post":"Network Administrator",
@@ -124,7 +124,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/fSh73Gs/IMG-20240303-WA0038.jpg",
+        "img":"",
         "ID":"12",
         "Employe_Name":"Nishat Afroz",
         "Employe_post":"Database Administrator",
@@ -135,7 +135,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/LrDnpkR/IMG-20240303-WA0032.jpg",
+        "img":"",
         "ID":"13",
         "Employe_Name":"Sabiha Jannat",
         "Employe_post":"Security Engineer",
@@ -146,7 +146,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/QNt6yZh/IMG-20240303-WA0031.jpg",
+        "img":"",
         "ID":"14",
         "Employe_Name":"Iftekhar Uddin Chowdury",
         "Employe_post":"Marketing",
@@ -157,7 +157,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/KGY0rJ2/IMG-20240303-WA0041.jpg",
+        "img":"",
         "ID":"15",
         "Employe_Name":"Sumaiya Uddin Mim",
         "Employe_post":"Customer Service",
@@ -168,7 +168,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/dtLM8Ty/IMG-20240303-WA0043.jpg",
+        "img":"",
         "ID":"16",
         "Employe_Name":"Mounota Das",
         "Employe_post":"Human Resources ",
@@ -179,7 +179,7 @@
         "Salary_month":0
     },
     {
-        "img":"https://i.ibb.co/W0M7gjv/IMG-20240303-WA0030.jpg",
+        "img":"",
         "ID":"17",
         "Employe_Name":"Musfiqur Rahman Mawaj",
         "Employe_post":"Sales",
